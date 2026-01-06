@@ -17,5 +17,6 @@ Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-mu
 
 
 
-https://github.com/user-attachments/assets/1490dc31-81ae-419d-bd59-d80683b776ba
+
+https://github.com/user-attachments/assets/6d1dda8b-ab98-4150-a8d1-b8f00a0cfbde
 
